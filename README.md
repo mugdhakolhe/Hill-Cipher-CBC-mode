@@ -1,6 +1,6 @@
 # Hill-Cipher-CBC-mode
 
-System and Network Security:
+(System and Network Security)
 
 *Problem Statement: Implement Hill Cipher in CBC mode with client and server programming and ability to handle large integers(gmp lib) and ASCII values*
 
@@ -44,7 +44,9 @@ We have implemented CBC mode wherein, Encryption and Decryption have been done a
 #### Example input:
 
 String: Hello1234user
+
 Size of  Matrix : 3
+
 Matrix elements:
 6 21 1
 13 16 10
