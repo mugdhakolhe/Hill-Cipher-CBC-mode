@@ -41,7 +41,7 @@ We have implemented CBC mode wherein, Encryption and Decryption have been done a
 * g++ hillcipher_cbc_client.cpp -o client -lgmp(client side)
 * ./client
 
-#### Example input:
+#### Example:
 
 String: Hello1234user
 
