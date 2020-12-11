@@ -1,8 +1,8 @@
 # Hill-Cipher-CBC-mode
 
-System and network security:
+System and Network Security:
 
-Problem Statement: Implement Hill Cipher in CBC mode
+Problem Statement: Implement Hill Cipher in CBC mode with client and server programming and ability to handle large integers(gmp lib) and ASCII values
 
 Inside this code we are having server and client, server(sender) is sending the encrypted message and key to the client(receiver). 
 At the client-side, the key matrix ( i.e, the inverse of the original key matrix) will be built and ciphertext blocks will be retrieved. 
